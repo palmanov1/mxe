@@ -17,7 +17,7 @@ $(PKG)_URL      := https://libisl.sourceforge.io/$($(PKG)_FILE)
 $(PKG)_URL_2    := https://gcc.gnu.org/pub/gcc/infrastructure/$($(PKG)_FILE)
 
 PKG             := gcc
-$(PKG)_VERSION  := 10.4.0
+$(PKG)_VERSION  := 10.5.0
 $(PKG)_RELEASE  := $($(PKG)_VERSION)
 $(PKG)_CHECKSUM := c9297d5bcd7cb43f3dfc2fed5389e948c9312fd962ef6a4ce455cff963ebe4f1
 $(PKG)_SUBDIR   := gcc-$($(PKG)_VERSION)
